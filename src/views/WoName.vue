@@ -13,7 +13,7 @@ onMounted(() => {
 </script>
 <template>
   <div>
-    这个是分支页面
+    上传到github
     <button @click="hangleclick">{{nub}}</button>
   </div>
 </template>
