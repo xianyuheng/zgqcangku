@@ -15,3 +15,4 @@ onMounted(() => {
     这个是分支页面
     <button @click="hangleclick">{{nub}}</button>
   </div>
+</template>

@@ -1,1 +1,1 @@
-export const LS = console.log('nihao')
+export const LS = console.log('nihao nizaigm')
